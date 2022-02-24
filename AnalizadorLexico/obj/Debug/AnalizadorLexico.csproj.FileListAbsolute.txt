@@ -1,0 +1,52 @@
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Personal\Documents\Unach\COMPILADORES\Software\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\crist\Downloads\TAREAS DE  LOS SEMESTRES  3,4,5\QUINTO SEMESTRE\Compiladores\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Public\Documents\UNIVERSIDAD\5to Semestre\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\ALEXIA\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\ALEXIA\Documents\5to SEMESTRE\COMPILADORES\Software2.AnalizadorLéxicoUtilizandoExpresionesRegulares\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
